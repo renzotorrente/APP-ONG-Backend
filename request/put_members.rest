@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/members/1
+Content-Type: application/json
+
+{
+  "image":"http://placehold.it/500x500"
+}

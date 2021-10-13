@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/testimonials/3
+Content-Type: application/json
+
+{
+  "content":" menos masmas texto masmas masmas texto masmas menos texto"
+}

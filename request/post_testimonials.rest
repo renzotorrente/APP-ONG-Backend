@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/testimonials
+Content-Type: application/json
+
+{
+  "name": "John Doe",
+  "content":" mucho texto mucho texto mucho texto",
+  "image":"http://placehold.it/500x500"
+}
